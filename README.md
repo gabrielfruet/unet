@@ -59,9 +59,15 @@ To install the required dependencies, you can use:
 If you use this implementation in your work, please consider citing the
 original paper:
 
-``` @article{ronneberger2015u, title={U-Net: Convolutional Networks for
-Biomedical Image Segmentation}, author={Ronneberger, Olaf and Fischer, Philipp
-and Brox, Thomas}, journal={arXiv preprint arXiv:1505.04597}, year={2015} } ```
+``` 
+@article{
+    ronneberger2015u, 
+    title={U-Net: Convolutional Networks for Biomedical Image Segmentation},
+    author={Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas}, 
+    journal={arXiv preprint arXiv:1505.04597},
+    year={2015} 
+} 
+```
 
 ## Acknowledgments
 
